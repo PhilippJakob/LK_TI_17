@@ -22,13 +22,13 @@ public class PropertiesBeispiel extends Application {
     }
 
 /** Beispiel: Ein Mann sonnt sich und beobachtet dabei seine sich verändernde Bräunung.
- *     
+ *
  * @see javafx.application.Application#start(javafx.stage.Stage)
  */
     @Override
   public void start(Stage primaryStage)
     {
-     Mann lDummerMann = new Mann();
+     Mann lDummerMann = new Mann(); //Ein absolut dummer Mann würde überhaupt nicht darauf achten, ob er einen Sonnenbrand bekommt.
      lDummerMann.stellenSonnenwecker();
      lDummerMann.sonnen();
     }
