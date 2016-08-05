@@ -19,11 +19,12 @@ public class Mann
     }
 
 /** Es wird gesonnt, bis es nicht mehr weiter geht.
- *
+ *  "Bis es nicht mehr weiter geht", bedeutet hier einen Wert von 256.
+ *  Dieser Wert entspricht einem sehr sehr knusprig dunklen Rot.
  */
   public void sonnen()
     {
-     // Hier erhöhen wir einfach den Bräunungsgrad.
+     // Hier erhöhen wir einfach den Bräunungsgrad. Kommentar nach Staged hinzugefügt, sollte beim Commit fehlen.
      for (int i = 0; i<256 ;i++)
        {
     	 haut.erhöhenBräunungsgrad();
