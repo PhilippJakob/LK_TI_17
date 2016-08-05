@@ -25,7 +25,7 @@ public class Mann
   public void sonnen()
     {
 	  //kzhkhj
-     // Hier erhöhen wir einfach den Bräunungsgrad.ä1,ä2
+     // Hier erhöhen wir einfach den Bräunungsgrad.ä1,ä2 Änderungen Mann Mehr
 	 for (int i = 0; i<256 ;i++)
        {
     	 haut.erhöhenBräunungsgrad();
