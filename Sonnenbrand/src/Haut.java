@@ -6,7 +6,7 @@ import javafx.beans.property.SimpleIntegerProperty;
 import javafx.beans.value.ChangeListener;
 import javafx.beans.value.ObservableValue;
 
-public class Haut
+public class Haut //Änderungen Haut Mehr Haut
 {
 	 // Weil wir diese Zahl überwachen wollen, legen wir nicht mittels
 	 //  "int bräunungsgrad" eine einfache Variable an, sondern eine Property.
