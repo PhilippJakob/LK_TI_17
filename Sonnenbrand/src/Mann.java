@@ -24,8 +24,8 @@ public class Mann
  */
   public void sonnen()
     {
-     // Hier erhöhen wir einfach den Bräunungsgrad. Kommentar nach Staged hinzugefügt, sollte beim Commit fehlen.
-     for (int i = 0; i<256 ;i++)
+     // Hier erhöhen wir einfach den Bräunungsgrad. Ä2
+	 for (int i = 0; i<256 ;i++)
        {
     	 haut.erhöhenBräunungsgrad();
 
