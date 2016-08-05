@@ -24,6 +24,7 @@ public class Mann
  */
   public void sonnen()
     {
+	  //kzhkhj
      // Hier erhöhen wir einfach den Bräunungsgrad.ä1,ä2
 	 for (int i = 0; i<256 ;i++)
        {
