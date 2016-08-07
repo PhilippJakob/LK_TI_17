@@ -16,6 +16,7 @@ public class Mann
   public void stellenSonnenwecker()
     {
 	  haut.beobachtenBräunungsgrad();
+	  System.out.println("Aenderung_Kock1");
     }
 
 /** Es wird gesonnt, bis es nicht mehr weiter geht.
